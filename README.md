@@ -1,2 +1,3 @@
-# Arena-Fighter
-Seperate branch of an arena fighting RPG game written in C# for the Unity Game Engine.
+# DND-5E
+
+This project aims to provide a standard library that implements the rules and mechanisms of Dungeons & Dragons. 
